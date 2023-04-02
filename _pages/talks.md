@@ -45,7 +45,7 @@ author_profile: true
 30) **Four top-quark production in the Standard Model**  
  invited talk, LHC Top Working Group Meeting, CERN - Zoom, November 2022
 
-29) **Scattering Amplitudes and conservative binary dynamics for Spinning Black Holes** 
+29) **Scattering Amplitudes and conservative binary dynamics for Spinning Black Holes**   
    plenary talk, High Precision for Hard Processes (HP2 2022), Newcastle, September 2022
 
 28) **Theory advances of $t\bar{t}W^\pm$ multi-lepton predictions**  
@@ -79,7 +79,7 @@ author_profile: true
    2021 Meeting of the Division of Particles and Fields of the American Physica Society  
    Florida State University - Zoom, July 2021
 
-18) **On the modelling of $t\bar{t}W^\pm$ multilepton signatures** 
+18) **On the modelling of $t\bar{t}W^\pm$ multilepton signatures**   
    workshop talk, $t\bar{t}H - tH$ subgroup of the HXSWG meeting - Zoom, May 2021
 
 17) **Modelling $t\bar{t}W$ final states in the POWHEG-BOX**  
@@ -88,7 +88,7 @@ author_profile: true
 16) **On the QCD modelling of $t\bar{t}W^\pm$ signatures**  
   parallel talk, LoopFest/RADCOR, Florida State University - Zoom, USA, May 2021
 
-15) **Matching $t\bar{t}W$ to parton showers at NLO QCD - A new POWHEG-BOX generator**
+15) **Matching $t\bar{t}W$ to parton showers at NLO QCD - A new POWHEG-BOX generator**  
  parallel talk, APS April Meeting, USA, April 2021
 
 14) **Matching $t\bar{t}W$ with parton showers**
@@ -100,7 +100,7 @@ author_profile: true
 12) **Precise predictions for $t\bar{t}\gamma/t\bar{t}$ cross section ratios at the LHC**  
  invited parallel talk, 31. Rencontres de Blois - Particle Physics and Cosmology, Blois, France, June 2019
 
-11) **off-shell $t\bar{t}j$ production - Top-quark mass studies at the LHC** 
+11) **off-shell $t\bar{t}j$ production - Top-quark mass studies at the LHC**   
   parallel talk, High Precision for Hard Processes (HP2 2018), Freiburg, Germany, October 2018
 
 10) **Photon associated top-quark pair production with off-shell effects**  
@@ -109,7 +109,7 @@ author_profile: true
 9) **off-shell $t\bar{t}j$ production and the top-quark mass: NLO QCD**  
  plenary talk, 13. RADCOR, St. Gilgen, Austria, September 2017
 
-8) **off-shell $t\bar{t}j$ production - Top-quark mass studies at the LHC** 
+8) **off-shell $t\bar{t}j$ production - Top-quark mass studies at the LHC**   
   workshop talk, LHC Top Working group meeting, CERN, June 2017
 
 7) **off-shell effects for $t\bar{t}j$ in the dilepton channel**  
@@ -125,12 +125,12 @@ author_profile: true
 4) **Top-pair production with a jet with NLO QCD off-shell effects**  
   invited parallel talk, LHCP 2016, Lund, Sweden, June 2016
 
-3) **Matching the Nagy-Soper shower at NLO** 
+3) **Matching the Nagy-Soper shower at NLO**   
   parallel talk, 9. Annual Meeting of the Helmholtz Alliance "Physics at the Terascale"  
   DESY Hamburg, Germany, November 2015
 
-2) **Matching the Nagy-Soper shower at NLO** 
+2) **Matching the Nagy-Soper shower at NLO**  
   parallel talk, EPS 2015, Vienna, Austria, July 2015
 
-1) **Matching the Nagy-Soper shower at NLO** 
+1) **Matching the Nagy-Soper shower at NLO**  
   parallel talk, DPG Spring Meeting, Wuppertal, Germany, March 2015
