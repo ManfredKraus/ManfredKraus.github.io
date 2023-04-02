@@ -21,7 +21,7 @@ author_profile: true
     [Phys. Rev. D 107 (2023) 1, 014028](https://doi.org/10.1103/PhysRevD.107.014028) [arXiv:2202.11186](https://arxiv.org/abs/2202.11186)
 
 18) **Hadroproduction of four top quarks in the powheg box**  
-    T. Je$\v{z}$o, M. Kraus  
+    T. Jezo, M. Kraus  
     [Phys. Rev. D 105 (2022) 11, 11](https://doi.org/10.1103/PhysRevD.105.114024) [arXiv:2110.15159](https://arxiv.org/abs/2110.15159)
 
 17) **Modeling uncertainties of $t\bar{t}W^\pm$ multilepton signatures**  
