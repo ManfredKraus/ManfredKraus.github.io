@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Manfred Kraus"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : "test"
+  bio              : "Theoretical Physicist"
+  location         : "Mexico City"
+  employer         : 
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=VDKEYrMAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
