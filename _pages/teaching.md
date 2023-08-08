@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## UNAM
+* Quantum Chromodynamics, 2023
 * The Theory of General Relativity, 2023
 
 ## Florida State University
