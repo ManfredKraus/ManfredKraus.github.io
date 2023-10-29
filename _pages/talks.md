@@ -7,6 +7,15 @@ author_profile: true
 
 ## Seminars
 
+14) **Precision Phenomenology of the Top Quark at the LHC**
+   IF-UNAM, Mexico, October 2023
+
+13) **Scattering Amplitudes for Spinning Black Holes**
+   CINVESTAV, Mexico, September 2023
+
+12)**Kerr Black Holes from multi-loop Scattering Amplitudes**
+   Sao Paulo, Brazil, August 2023
+
 11) **Rotating Black Holes from Scattering Amplitudes**  
     SLAC, California, USA, September 2022
 
@@ -41,12 +50,17 @@ author_profile: true
   University of Wuerzburg, Germany, December 2015 
 
 ## Conference Talks
+32) **The classical Hamiltonian of Kerr Black Holes**
+  Workshop on Fundamental Fields and Compact Objects: New Opportunities, Cuernavaca, October 2023 
+
+31) **Gravitational Waves - Where General Relativity meets QCD**
+  plenary talk, Congreso Interno, IF-UNAM, September 2023
 
 30) **Four top-quark production in the Standard Model**  
- invited talk, LHC Top Working Group Meeting, CERN - Zoom, November 2022
+  invited talk, LHC Top Working Group Meeting, CERN - Zoom, November 2022
 
 29) **Scattering Amplitudes and conservative binary dynamics for Spinning Black Holes**   
-   plenary talk, High Precision for Hard Processes (HP2 2022), Newcastle, September 2022
+  plenary talk, High Precision for Hard Processes (HP2 2022), Newcastle, September 2022
 
 28) **Theory advances of $t\bar{t}W^\pm$ multi-lepton predictions**  
   invited plenary talk, TOP 2022, Durham, September 2022
@@ -134,3 +148,7 @@ author_profile: true
 
 1) **Matching the Nagy-Soper shower at NLO**  
   parallel talk, DPG Spring Meeting, Wuppertal, Germany, March 2015
+
+## Schools
+1) **From Particle Physics to Black Hole Mergers**
+  plenary talk, XXX Escuela de Verano en Fisica, UNAM, June 2023
