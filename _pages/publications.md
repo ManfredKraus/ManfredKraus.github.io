@@ -6,7 +6,7 @@ author_profile: true
 ---
 23) **NLO QCD predictions for off-shell $t\bar{t}W$ production in association with a light jet at the LHC**  
     H.Y. Bi, M. Kraus, M. Reinartz, M. Worek  
-    [JHEP 09 (2023) 026][https://doi.org/10.1007/JHEP09(2023)026] [arXiv:2305.03802](https://arxiv.org/abs/2305.03802)
+    [JHEP 09 (2023) 026](https://doi.org/10.1007/JHEP09(2023)026) [arXiv:2305.03802](https://arxiv.org/abs/2305.03802)
 
 22) **Report of the Topical Group on Top quark physics and heavy flavor production for Snowmass 2021**  
     [arXiv:2209.11267](https://arxiv.org/abs/2209.11267)

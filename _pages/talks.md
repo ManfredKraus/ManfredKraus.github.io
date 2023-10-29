@@ -7,13 +7,13 @@ author_profile: true
 
 ## Seminars
 
-14) **Precision Phenomenology of the Top Quark at the LHC**
+14) **Precision Phenomenology of the Top Quark at the LHC**  
    IF-UNAM, Mexico, October 2023
 
-13) **Scattering Amplitudes for Spinning Black Holes**
+13) **Scattering Amplitudes for Spinning Black Holes**  
    CINVESTAV, Mexico, September 2023
 
-12)**Kerr Black Holes from multi-loop Scattering Amplitudes**
+12)**Kerr Black Holes from multi-loop Scattering Amplitudes**  
    Sao Paulo, Brazil, August 2023
 
 11) **Rotating Black Holes from Scattering Amplitudes**  
