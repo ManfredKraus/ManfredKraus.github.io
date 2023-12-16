@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+24) **Two-Loop Master Integrals for Leading-Color $pp\to t\bar{t}H$ Amplitudes with a Light-Quark Loop**  
+    F. Febres Cordero, G. Figueiredo, M. Kraus, B. Page, L. Reina   
+    [arXiv:2312.08131](https://arxiv.org/abs/2312.08131)
+
 23) **NLO QCD predictions for off-shell $t\bar{t}W$ production in association with a light jet at the LHC**  
     H.Y. Bi, M. Kraus, M. Reinartz, M. Worek  
     [JHEP 09 (2023) 026](https://doi.org/10.1007/JHEP09(2023)026) [arXiv:2305.03802](https://arxiv.org/abs/2305.03802)
