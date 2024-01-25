@@ -4,6 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+25) **Gravitational Bremsstrahlung in Black-Hole Scattering at $\mathcal{O}(G^3)$: Linear-in-Spin Effects**  
+    L. Bohnenblust, H. Ita, M. Kraus, J. Schlenk  
+    [arXiv:2312.14859](https://arxiv.org/abs/2312.14859)
+
 24) **Two-Loop Master Integrals for Leading-Color $pp\to t\bar{t}H$ Amplitudes with a Light-Quark Loop**  
     F. Febres Cordero, G. Figueiredo, M. Kraus, B. Page, L. Reina   
     [arXiv:2312.08131](https://arxiv.org/abs/2312.08131)

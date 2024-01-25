@@ -13,8 +13,8 @@ author_profile: true
 13) **Scattering Amplitudes for Spinning Black Holes**  
    CINVESTAV, Mexico, September 2023
 
-12)**Kerr Black Holes from multi-loop Scattering Amplitudes**  
-   Sao Paulo, Brazil, August 2023
+12) **Kerr Black Holes from multi-loop Scattering Amplitudes**  
+    Sao Paulo, Brazil, August 2023
 
 11) **Rotating Black Holes from Scattering Amplitudes**  
     SLAC, California, USA, September 2022
