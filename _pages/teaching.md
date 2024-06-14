@@ -11,7 +11,8 @@ author_profile: true
 * The Theory of General Relativity, 2023
 
 ## Puebla Mini-School 2024: Feynman-Integrals and Scattering Amplitudes
-* [Exercises](https://manfredkraus.github.io/files/puebla/sheet.pdf)
+* [exercises](https://manfredkraus.github.io/files/puebla/sheet.pdf)
+* [Kira](https://manfredkraus.github.io/files/puebla/Kira.tar.gz)
 
 ## Florida State University
 * Modern Methods for Feynman Integrals, 2020
