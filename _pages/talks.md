@@ -7,6 +7,18 @@ author_profile: true
 
 ## Seminars
 
+18) **Black Hole Dynamics from Scattering Amplitudes**  
+  ICN, Mexico, May 2024
+
+17) **Spinning Black Holes and Gravitational Radiation**  
+   BUAP, Mexico, April 2024
+
+16) **Gravitational Waves -- Classical General Relativity from quantum theories**  
+   UAM, Mexico, April 2024
+
+15) **Gravitational Waves -- A New Window Into The Universe**  
+   UNAM -- SPIE Student Chapter, Mexico, November 2023
+
 14) **Precision Phenomenology of the Top Quark at the LHC**  
    IF-UNAM, Mexico, October 2023
 
@@ -50,6 +62,15 @@ author_profile: true
   University of Wuerzburg, Germany, December 2015 
 
 ## Conference Talks
+35) **Two-loop Master Integrals for Leading-color $t\bar{t}H Amplitudes**  
+  Workshop talk, Beyond Elliptic Polylogarithms, Casa Mathematica Oaxaca, June 2024
+
+34) **A first look at two-loop master integrals for $t\bar{t}H$**  
+  invited plenary talk, LoopFest XXII, Southern Methodist University, Dallas, USA, May 2024
+
+33) **Towards two-loop master integrals for $t\bar{t}H**  
+  parallel talk, XX Mexican School of Particles and Fields, Merida, October 2023
+
 32) **The classical Hamiltonian of Kerr Black Holes**   
   Workshop on Fundamental Fields and Compact Objects: New Opportunities, Cuernavaca, October 2023 
 
@@ -150,5 +171,8 @@ author_profile: true
   parallel talk, DPG Spring Meeting, Wuppertal, Germany, March 2015
 
 ## Schools
+2) **Gravitational Waves from Scattering Amplitudes**   
+  plenary talk, XXXI Escuela de Verano en Fisica, UNAM, June 2024
+
 1) **From Particle Physics to Black Hole Mergers**   
   plenary talk, XXX Escuela de Verano en Fisica, UNAM, June 2023

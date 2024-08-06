@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 ## Undergraduates
-* Since 2023 -- Leonardo David Espinosa Rold&aacute;n
+* Leonardo David Espinosa Rold&aacute;n (2023 -- present)
+* Eduardo V&aacute;zquez Kuri (2023 -- present)
 
-## Servicio Social
-* Since 2023 -- Eduardo V&aacute;zquez Kuri
+## Master Students
+* Allan Eduardo Alonzo Artilles (2024 -- present)
+* Luz Silvana Rodr&aacute;iguez Mel&aacute;endez (2024 -- present)
