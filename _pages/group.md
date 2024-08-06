@@ -11,4 +11,4 @@ author_profile: true
 
 ## Master Students
 * Allan Eduardo Alonzo Artilles (2024 -- present)
-* Luz Silvana Rodr&aacute;iguez Mel&aacute;endez (2024 -- present)
+* Luz Silvana Rodr&iacute;guez Mel&eacute;ndez (2024 -- present)
